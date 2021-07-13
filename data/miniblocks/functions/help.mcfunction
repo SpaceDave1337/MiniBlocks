@@ -1,0 +1,2 @@
+tellraw @a {"text": "/function miniblocks:base - Spawns the Base Villager, who will allow you to beginn making MiniBlocks!", "color": "#6ee612"}
+tellraw @a {"text": "/function miniblocks:farmer - Will trade you Farming related MiniBlocks!", "color": "#e6de12"}
